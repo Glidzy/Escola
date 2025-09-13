@@ -20,7 +20,7 @@ O objetivo é criar um **jogo da forca interativo**, onde o jogador deve adivinh
 - Exibição gráfica do jogo usando **Pyglet**  
 - Desenho progressivo da forca e do boneco conforme os erros  
 - Controle das letras já tentadas  
-- Reinício rápido do jogo ao pressionar a tecla `/`  
+- Reinício rápido do jogo ao pressionar a tecla `.`  
 
 ---
 
