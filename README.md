@@ -37,4 +37,4 @@ O objetivo é criar um **jogo da forca interativo**, onde o jogador deve adivinh
 ## 🚀 Como Executar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/jogo-da-forca.git
+   git clone https://github.com/Glidzy/Escola.git
